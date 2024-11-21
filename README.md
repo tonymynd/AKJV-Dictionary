@@ -10,7 +10,7 @@ This is a **custom dictionary** based on the **Authorized King James Version (AK
 ## How to Use
 
 1. **Download the Dictionary**:
-   - Click the **[Download Dictionary](https://github.com/tonymynd/AKJV-Dictionary)** link to get the `.dic` file.
+   - Click the **[Download Dictionary](https://github.com/tonymynd/AKJV-Dictionary/blob/main/KJV.dic)** link to get the `.dic` file.
 
 2. **Add the File to Microsoft Word**:
    - Open **Microsoft Word**.
